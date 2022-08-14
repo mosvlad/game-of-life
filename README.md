@@ -1,6 +1,6 @@
 # Game of life
 
-Simple realization Conway's game of life on Python.
+Simple realization [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on Python.
 
 Classic rules B = 3, S1 = 2, S2 = 3 can be changed on:
 https://github.com/mosvlad/game-of-life/blob/79d17a29961ed0c47557932252396f5c8897f8e2/main.py#L9-L11
